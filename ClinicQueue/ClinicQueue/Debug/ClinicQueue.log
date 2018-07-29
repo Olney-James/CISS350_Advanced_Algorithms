@@ -1,0 +1,6 @@
+﻿  main.cpp
+  LinkedQue.cpp
+  Generating Code...
+c:\users\james_olney\desktop\stuff\school\ciss350\clinicqueue\clinicqueue\main.cpp(278): warning C4715: 'getRoom': not all control paths return a value
+  ClinicQueue.vcxproj -> C:\Users\james_olney\Desktop\Stuff\School\CISS350\ClinicQueue\Debug\ClinicQueue.exe
+  ClinicQueue.vcxproj -> C:\Users\james_olney\Desktop\Stuff\School\CISS350\ClinicQueue\Debug\ClinicQueue.pdb (Partial PDB)

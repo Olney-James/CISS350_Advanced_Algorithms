@@ -1,0 +1,14 @@
+11111 gallon-milk 1.990000 78
+11112 butter 2.590000 78
+11113 pie-shells 0.990000 78
+11114 laundry-soap 3.600000 84
+11115 homestyle-br 0.990000 78
+CUSTOMER 1
+***cannot order 0 of an item***
+	 	 Subtotal 0
+	 	 Tax      0.27
+
+	 Total 0
+
+
+CUSTOMER 2

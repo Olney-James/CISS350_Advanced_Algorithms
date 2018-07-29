@@ -1,0 +1,268 @@
+	***************************************		
+	**       MEDICAL CLINIC PROGRAM      **		
+	***************************************		
+
+
+
+	MENU
+ 1. Doctor Check-In
+ 2. Doctor Check-Out
+ 3. Patient Check-In
+ 4. Patient Check-Out
+ 5. Show Active Rooms
+ 6. Exit
+
+	MENU
+ 1. Doctor Check-In
+ 2. Doctor Check-Out
+ 3. Patient Check-In
+ 4. Patient Check-Out
+ 5. Show Active Rooms
+ 6. Exit
+ Enter choice: 6
+
+	PROGRAM ENDING......
+	GOODBYE!
+
+	MENU
+ 1. Doctor Check-In
+ 2. Doctor Check-Out
+ 3. Patient Check-In
+ 4. Patient Check-Out
+ 5. Show Active Rooms
+ 6. Exit
+ Enter choice: 1
+
+	DOCTOR CHECK IN
+
+Enter the room number to check into (1-100): 2
+Room #2 is available.
+Please enter the doctors name: DrLewisPlease choose a specialty from the list below:
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+ENTER CHOICE: 5
+	MENU
+ 1. Doctor Check-In
+ 2. Doctor Check-Out
+ 3. Patient Check-In
+ 4. Patient Check-Out
+ 5. Show Active Rooms
+ 6. Exit
+ Enter choice: 5
+
+-------------------------------------------------------
+ROOM #: 2
+DOCTOR: DrLewis
+SPECIALTY: 5
+PATIENTS: No
+-------------------------------------------------------
+
+	MENU
+ 1. Doctor Check-In
+ 2. Doctor Check-Out
+ 3. Patient Check-In
+ 4. Patient Check-Out
+ 5. Show Active Rooms
+ 6. Exit
+ Enter choice: 3
+
+Please enter the patient's name: Mara
+Please enter the patient's age: 1
+Please enter a short descritpion for the patient's issue, 20 characters max:
+poop
+Please choose a specialty from the list below:
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+ENTER CHOICE: 5 ** There is no pediatric doctor available. **
+ ** Searching for another doctor. **
+
+-------------------------------------------------------
+Please direct the patient to the following room:
+ROOM #: 2
+DOCTOR: DrLewis
+-------------------------------------------------------
+
+	MENU
+ 1. Doctor Check-In
+ 2. Doctor Check-Out
+ 3. Patient Check-In
+ 4. Patient Check-Out
+ 5. Show Active Rooms
+ 6. Exit
+ Enter choice: 5
+
+-------------------------------------------------------
+ROOM #: 2
+DOCTOR: DrLewis
+SPECIALTY: 5
+PATIENTS: 1
+-------------------------------------------------------
+
+	MENU
+ 1. Doctor Check-In
+ 2. Doctor Check-Out
+ 3. Patient Check-In
+ 4. Patient Check-Out
+ 5. Show Active Rooms
+ 6. Exit
+ Enter choice: 3
+
+Please enter the patient's name: Camilla
+Please enter the patient's age: 23
+Please enter a short descritpion for the patient's issue, 20 characters max:
+lkjshfkljasjdfas
+Please choose a specialty from the list below:
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+ENTER CHOICE: 5
+-------------------------------------------------------
+Please direct the patient to the following room:
+ROOM #: 2
+DOCTOR: DrLewis
+-------------------------------------------------------
+
+	MENU
+ 1. Doctor Check-In
+ 2. Doctor Check-Out
+ 3. Patient Check-In
+ 4. Patient Check-Out
+ 5. Show Active Rooms
+ 6. Exit
+ Enter choice: 6
+
+	PROGRAM ENDING......
+	GOODBYE!
+
+	MENU
+ 1. Doctor Check-In
+ 2. Doctor Check-Out
+ 3. Patient Check-In
+ 4. Patient Check-Out
+ 5. Show Active Rooms
+ 6. Exit
+ Enter choice: 1
+
+	Dr Check-in
+Examination room number (1-100): 1Room #1 is available.
+name: JamesEnter 1-12 to select a specialty: 
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+Choice: 1
+	MENU
+ 1. Doctor Check-In
+ 2. Doctor Check-Out
+ 3. Patient Check-In
+ 4. Patient Check-Out
+ 5. Show Active Rooms
+ 6. Exit
+ Enter choice: 1
+
+	Dr Check-in
+Examination room number (1-100): 11 is NOT available. Try again.
+Examination room number (1-100): 3Room #3 is available.
+name: JebEnter 1-12 to select a specialty: 
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+Choice: 2
+	MENU
+ 1. Doctor Check-In
+ 2. Doctor Check-Out
+ 3. Patient Check-In
+ 4. Patient Check-Out
+ 5. Show Active Rooms
+ 6. Exit
+ Enter choice: 3
+
+enter the patient's name: Lewis
+enter the patient's age: 1
+What is the state of your emergency?: 
+Pooping
+Enter 1-12 to select a specialty: 
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+Choice: 3Show patient to room 1to see Dr James
+
+	MENU
+ 1. Doctor Check-In
+ 2. Doctor Check-Out
+ 3. Patient Check-In
+ 4. Patient Check-Out
+ 5. Show Active Rooms
+ 6. Exit
+ Enter choice: 5
+Room: 1
+Dr: James
+Specialty: 1
+Patients: 1
+Room: 3
+Dr: Jeb
+Specialty: 2
+Patients: 0
+
+	MENU
+ 1. Doctor Check-In
+ 2. Doctor Check-Out
+ 3. Patient Check-In
+ 4. Patient Check-Out
+ 5. Show Active Rooms
+ 6. Exit
